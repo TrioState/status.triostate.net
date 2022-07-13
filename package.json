@@ -25,7 +25,8 @@
         "test": "react-scripts test",
         "eject": "react-scripts eject",
         "predeploy": "npm run build && cp ./build/index.html ./build/404.html && echo 'status.oneliferp.net' > ./build/CNAME",
-        "deploy": "gh-pages -d build"
+        "deploy": "gh-pages -d build",
+        "compile-server": "cd socha && ./gradlew :server:deploy -q && cd .. && rimraf server && xcopy socha\\server\\build\\runnable server\\ /E && xcopy socha\\player\\build\\libs\\defaultplayer.jar ."
     },
     "eslintConfig": {
         "extends": "react-app"
