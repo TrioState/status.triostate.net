@@ -24,7 +24,7 @@ const statuses = {
   maintenance: {
     name: "Maintenance",
     locName: l10n.components.maintenance,
-    backgroundColour: "rgba(214, 222, 35, 0.1)",
+    backgroundColour: "rgba(255, 94, 94, 0.1)",
   },
   unknown: {
     name: "Unknown",

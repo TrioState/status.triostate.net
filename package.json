@@ -24,7 +24,7 @@
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
-        "predeploy": "npm run build && copy ./build/index.html ./build/404.html && echo 'status.oneliferp.net' > ./build/CNAME",
+        "predeploy": "npm run build && copy .\\build\\index.html .\\build\\404.html && echo 'status.oneliferp.net' > ./build/CNAME",
         "deploy": "gh-pages -d build"
     },
     "eslintConfig": {
