@@ -60,8 +60,8 @@
         },
         "incidents": {
             "title": "Meldungen",
-            "closed": "abgeschlossen",
-            "active": "aktuell aktiv"
+            "closed": "Abgeschlossen",
+            "active": "aktuell Aktiv"
         },
         "components": {
             "operational": "Störungsfrei",
