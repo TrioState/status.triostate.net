@@ -8,7 +8,7 @@ const Incident = styled.div`
   transition: 0.3s;
   border-left: 16px solid
     ${(props) =>
-    props.active ? "rgba(177, 177, 177,0.2)" : "rgba(213, 119, 51, 0.25)"};
+    props.active ? "rgba(177, 177, 177,0.2)" : "rgba(255, 92, 20, 0.25)"};
   border-radius: 3px;
   padding: 16px;
   box-shadow: 0px 0px 33px -32px rgba(0, 0, 0, 0.75);
@@ -39,7 +39,7 @@ const Comment = styled.div`
 
 const Status = styled.div`
   background-color: ${(props) =>
-    props.active ? "rgba(96, 96, 96, 0.1)" : "rgba(73, 144, 226, 0.1)"};
+    props.active ? "rgba(96, 96, 96, 0.1)" : "rgba(255, 92, 20, 0.1)"};
   padding: 5px 12px;
   border-radius: 16px;
   font-size: 13px;

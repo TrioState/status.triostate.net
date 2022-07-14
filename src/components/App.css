@@ -17,7 +17,7 @@
     height: 100%;
     animation: pulse 3s infinite;
     animation-timing-function: ease-out;
-    background-color: rgba(73, 144, 226, 0.5);
+    background-color: rgba(255, 92, 20, 0.5);
     opacity: 1;
     border-radius: 16px;
     z-index: 100;
@@ -207,7 +207,7 @@
         color: #a0a0a0;
     }
     .incident-status.activeIncident {
-        color: #5787be;
+        color: #FF5C14;
     }
 }
 
