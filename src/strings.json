@@ -68,7 +68,7 @@
             "performanceIssues": "Performance-Einbrüche",
             "partialOutage": "Störungen",
             "majorOutage": "Ausfall",
-            "maintenance": "Wartungen",
+            "maintenance": "Wartungsarbeiten",
             "unknown": "Unbekannter Status"
         },
         "status": {
