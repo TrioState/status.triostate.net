@@ -60,20 +60,20 @@
         },
         "incidents": {
             "title": "Meldungen",
-            "closed": "Gelöst",
-            "active": "Aktiv"
+            "closed": "abgeschlossen",
+            "active": "aktuell aktiv"
         },
         "components": {
-            "operational": "Funktionsfähig",
-            "performanceIssues": "Leistungsprobleme",
-            "partialOutage": "Eingeschränkt",
+            "operational": "Störungsfrei",
+            "performanceIssues": "Performance-Einbrüche",
+            "partialOutage": "Störungen",
             "majorOutage": "Ausfall",
             "maintenance": "Wartungen",
-            "unknown": "Unbekannt"
+            "unknown": "Unbekannter Status"
         },
         "status": {
-            "operational": "Alle Systeme funktionsfähig",
-            "issues": "Einige Systeme haben Probleme",
+            "operational": "Alle Systeme laufen Störungsfrei",
+            "issues": "Einige Systeme melden Probleme",
             "outage": "Einige Systeme melden einen Ausfall"
         }
     }
