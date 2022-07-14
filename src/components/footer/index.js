@@ -17,7 +17,7 @@ const FooterCompound = () => (
   <Footer>
     <Branding
       visible={process.env.REACT_APP_BRANDING !== "false"}
-      href="https://gommehd.net/terms"
+      href="https://oneliferp.net/terms"
       rel="noopener"
       target="_blank"
     >
