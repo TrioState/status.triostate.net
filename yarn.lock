@@ -1674,7 +1674,7 @@
     "lodash" "^4.17.15"
     "redent" "^3.0.0"
 
-"@testing-library/react@^12.0.0":
+"@testing-library/react@^12.1.5":
   "integrity" "sha512-OfTXCJUFgjd/digLUuPxa0+/3ZxsQmE7ub9kcbW/wi96Bh3o/p5vrETcBGfP17NWPGqeYYl5LTRpwyGoMC4ysg=="
   "resolved" "https://registry.npmjs.org/@testing-library/react/-/react-12.1.5.tgz"
   "version" "12.1.5"
