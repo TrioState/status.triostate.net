@@ -143,11 +143,11 @@
     font-size: 7pt;
     position: relative;
     bottom: 3px;
-    left: 5px;
+    left: 3px;
 }
 
 .collapse-component .collapse-content {
-    margin-left: 3em;
+    margin-left: 2em;
     padding-bottom: 8px;
 }
 

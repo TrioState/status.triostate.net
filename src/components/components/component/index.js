@@ -15,19 +15,18 @@ const Component = styled.div`
     margin-bottom: 8px;
   }
 `
-
 const ComponentCompound = ({ component, components }) => {
   const [isCollapseOpen, setCollapseOpen] = useState(false);
   let rawChildren = useChildren(component, components);
 
-  if (component.labels.find((v) => v.name === 'subcomponent')) {
+  if (component.labels.find((l) => l.name === 'subcomponent')) {
     return null; // don't include subcomponents here
   }
 
   if (rawChildren?.length > 0 && !component.labels.find((v) => v.name === 'maintenance')) {
     let children = rawChildren?.map((v) => <Component key={v.id} className="component collapsed">
       <div>
-        {v.title.split(':')[1]}
+        {v.title.split('/')[0]}
         {v.body ?
           <span className="component-body">{v.body}</span>
           : null
