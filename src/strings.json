@@ -30,6 +30,7 @@
             "partialOutage": "Restricted",
             "majorOutage": "Major Outage",
             "maintenance": "Maintenance",
+            "processing": "Processing",
             "unknown": "Unknown"
         },
         "status": {
@@ -69,6 +70,7 @@
             "partialOutage": "Störungen",
             "majorOutage": "Ausfall",
             "maintenance": "Wartungsarbeiten",
+            "processing": "In Bearbeitung",
             "unknown": "Unbekannter Status"
         },
         "status": {

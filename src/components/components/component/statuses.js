@@ -26,6 +26,11 @@ const statuses = {
     locName: l10n.components.maintenance,
     backgroundColour: "rgba(198, 198, 198, 0.1)",
   },
+  processing: {
+    name: "Processing",
+    locName: l10n.components.processing,
+    backgroundColour: "rgba(174, 50, 255, 0.1)",
+  },
   unknown: {
     name: "Unknown",
     locName: l10n.components.unknown,
