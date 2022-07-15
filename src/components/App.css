@@ -60,7 +60,7 @@
     color: #717171;
 }
 .component-status.processing {
-    color: #AE32FF,
+    color: #ae32fe,
 }
 
 .component-status.unknown {
@@ -84,7 +84,7 @@
         color: #a3a3a3;
     }
     .component-status.processing {
-        color: #AE32FF,
+        color: #ae32ff,
     }
     .component-status.unknown {
         color: #b9b7b7;
