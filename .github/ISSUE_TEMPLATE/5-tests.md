@@ -1,6 +1,6 @@
 ---
 name: "Testlauf"
-about: "Ankündigung von Testläufen"
+about: "[Meldungen] Ankündigung von Testläufen"
 title: "[Testlauf] {}"
 labels: incident, issue status
 assignees: ''
