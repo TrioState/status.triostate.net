@@ -1,8 +1,8 @@
 ---
-name: New Component
-about: Erstellen eines neuen Componenten
+name: "[Neuer Component]"
+about: "[Components] Erstelle einen neuen Componenten"
 title: ""
-labels: component, issue status, maintenance
+labels: component, issue status, processing
 assignees: ''
 
 ---

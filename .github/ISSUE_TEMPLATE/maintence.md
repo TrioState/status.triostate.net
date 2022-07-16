@@ -1,6 +1,6 @@
 ---
-name: Maintenance
-about: Ankündigung von Wartungsarbeiten
+name: "Wartungsarbeiten"
+about: "[Meldungen] Ankündigung von Wartungsarbeiten"
 title: "[Wartungsarbeiten] {}"
 labels: incident, issue status
 assignees: ''
