@@ -38,7 +38,7 @@ const ComponentCompound = ({ component, components }) => {
       <Component onClick={() => setCollapseOpen(!isCollapseOpen)} className="component children">
         <div>
           {component.title}
-          <span className="component-dropdown">{isCollapseOpen ? "►" : "▼"}</span>
+          <span className="component-dropdown">{isCollapseOpen ? "⮞" : "⮟"}</span>
           {component.body ?
             <span className="component-body">{component.body}</span>
             : null
