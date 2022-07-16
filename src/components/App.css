@@ -49,7 +49,7 @@
 }
 
 .component-status.partialoutage {
-    color: #74582a;
+    color: #ef2800;
 }
 
 .component-status.majoroutage {
@@ -57,7 +57,7 @@
 }
 
 .component-status.maintenance {
-    color: #717171;
+    color: #696969;
 }
 .component-status.processing {
     color: #ae32fe;
@@ -72,19 +72,19 @@
         color: #46b75d;
     }
     .component-status.performanceissues {
-        color: #4173ac;
+        color: #5697e2;
     }
     .component-status.partialoutage {
-        color: #aa8448;
+        color: #ff8e5e;
     }
     .component-status.majoroutage {
-        color: #b4554b;
+        color: #ff7364;
     }
     .component-status.maintenance {
         color: #a3a3a3;
     }
     .component-status.processing {
-        color: #ae32ff;
+        color: #bf5eff;
     }
     .component-status.unknown {
         color: #b9b7b7;
@@ -96,11 +96,11 @@
 */
 
 .status-bar.operational {
-    background-color: #3da751;
+    background-color: #007b17;
 }
 
 .status-bar.issues {
-    background-color: #e27b49;
+    background-color: #ff6f00;
 }
 
 .status-bar.outage {
@@ -113,7 +113,7 @@
     }
 
     .status-bar.issues {
-        background-color: #a7711c;
+        background-color: #c15400;
     }
 
     .status-bar.outage {
@@ -182,7 +182,7 @@
 }
 
 .incident-status.activeIncident {
-    color: #FF5C14;
+    color: #dd4200;
 }
 
 .incident p {
@@ -213,7 +213,7 @@
         color: #a0a0a0;
     }
     .incident-status.activeIncident {
-        color: #FF5C14;
+        color: #ff6f31;
     }
 }
 
