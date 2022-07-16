@@ -8,7 +8,7 @@ const useChildren = (component, components) => {
     setChildren(
       components.filter((v) => {
         let splitName = v.title.split('/');
-        return v.labels.find((v1) => v1.name === 'subcomponent') && splitName.length > 0 && splitName === parentName;
+        return v.labels.find((v) => v.name === 'subcomponent') && splitName.length > 0 && splitName === parentName;
       })
     );
   },  [component, components]);
