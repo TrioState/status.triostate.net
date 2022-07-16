@@ -70,11 +70,11 @@
             "partialOutage": "Störungen",
             "majorOutage": "Ausfall",
             "maintenance": "Wartungsarbeiten",
-            "processing": "In Bearbeitung",
+            "processing": "Entwicklungsarbeiten",
             "unknown": "Unbekannter Status"
         },
         "status": {
-            "operational": "Alle Systeme laufen Störungsfrei",
+            "operational": "Alle Systeme melden keine Störungen",
             "issues": "Einige Systeme melden Probleme",
             "outage": "Einige Systeme melden einen Ausfall"
         }
