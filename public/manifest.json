@@ -1,6 +1,6 @@
 {
-  "short_name": "status.oneliferp.net",
-  "name": "Official status page for OneLife Roleplay",
+  "short_name": "status.triostate.net",
+  "name": "Official status page for TrioState",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://status.oneliferp.net/",
+  "start_url": "https://status.triostate.net/",
   "display": "standalone",
   "theme_color": "#3da751"
 }
