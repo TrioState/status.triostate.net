@@ -17,7 +17,7 @@ const FooterCompound = () => (
   <Footer>
     <Branding
       visible={process.env.REACT_APP_BRANDING !== "false"}
-      href="https://triostate.net/impressum"
+      href="https://triostate.net/"
       rel="noopener"
       target="_blank"
     >
