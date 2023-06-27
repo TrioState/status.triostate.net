@@ -127,7 +127,7 @@
 
 .dark-logo {
     display: none;
-    width: 50%;
+    max-width: 1008px;
 }
 
 .components-container {
@@ -193,7 +193,7 @@
 @media (prefers-color-scheme: dark) {
     .dark-logo {
         display: inline;
-        width: 50%;
+        max-width: 1008px;
     }
     .light-logo {
         display: none;
