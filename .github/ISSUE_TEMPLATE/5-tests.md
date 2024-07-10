@@ -1,10 +1,10 @@
 ---
 name: "Testlauf"
 about: "[Meldungen] Ankündigung von Testläufen"
-title: "[Testlauf] {}"
+title: "[Testlauf] Service XXX"
 labels: incident, issue status
 assignees: ''
 
 ---
 
-Am {} werden wir ab {} Uhr Testläufe am Netzwerk durchführen. Dadurch wird das Netzwerk für ca. {} Minuten nicht zur Verfügung stehen. In diesem Zeitraum kann es ebenfalls zu Einschränkungen bei der Webseite kommen.
+Am XX. XXXXX XXXX werden wir ab XX:XX Uhr Testläufe am Netzwerk durchführen. Dadurch wird das Netzwerk für ca. XX Minuten nicht zur Verfügung stehen.
