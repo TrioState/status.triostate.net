@@ -1,10 +1,10 @@
 ---
 name: "Wartungsarbeiten"
 about: "[Meldungen] Ankündigung von Wartungsarbeiten"
-title: "[Wartungsarbeiten] {}"
+title: "[Wartungsarbeiten] Service XXX"
 labels: incident, issue status
 assignees: ''
 
 ---
 
-Am {} werden wir ab {} Uhr Wartungsarbeiten am Netzwerk durchführen. Dadurch wird das Netzwerk für ca. {} Minuten nicht zur Verfügung stehen. In diesem Zeitraum kann es ebenfalls zu Einschränkungen bei der Webseite kommen.
+Am XX. XXXXX XXXX werden wir ab XX:XX Uhr Wartungsarbeiten am Netzwerk durchführen. Dadurch wird das Netzwerk für ca. XX Minuten nicht zur Verfügung stehen. In diesem Zeitraum kann es ebenfalls zu Einschränkungen bei der Webseite kommen.
